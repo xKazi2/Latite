@@ -4,4 +4,4 @@
 
 ## What is Latite Client?
 
-Latite Client is a non-cheat modification for Minecraft Windows 10/11 Edition which has features ranging from PVP-related utilities to world utility/visual mods and a plugin system. For more information, including download links, see the [website](https://latite.net/)
+Latite Client is a non-cheat (legit) modification for Minecraft Windows 10/11 Edition which has features ranging from PVP-related utilities to world utility/visual mods and a plugin system. For more information, including download links, see the [website](https://latite.net/)
